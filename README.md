@@ -8,13 +8,16 @@ Goal is to organize the content (resources) in a  hirarchical (tree) structure T
 **Data Scince**
             -- R
 
-            Templates : https://machinelearningmastery.com/machine-learning-project-template-in-r/
+            Templates :
+https://machinelearningmastery.com/machine-learning-project-template-in-r/
 
             -- Python 
 
             -- ML 
 
-            UCI ML Repo : http://archive.ics.uci.edu/ml/index.php
+            UCI ML Repo : 
+
+http://archive.ics.uci.edu/ml/index.php
 
             -- Stats 
 
