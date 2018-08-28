@@ -7,6 +7,7 @@ Goal is to organize the content (resources) in a  hirarchical (tree) structure T
 
 **Data Scince**
             -- R
+            Templates : https://machinelearningmastery.com/machine-learning-project-template-in-r/
 
             -- Python 
 
