@@ -10,7 +10,7 @@ Goal is to organize the content (resources) in a  hirarchical (tree) structure T
 
             Templates :
 https://machinelearningmastery.com/machine-learning-project-template-in-r/
-
+https://machinelearningmastery.com/machine-learning-checklist/
             -- Python 
 
             -- ML 
