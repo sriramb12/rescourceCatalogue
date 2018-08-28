@@ -5,7 +5,8 @@ Goal is to organize the content (resources) in a  hirarchical (tree) structure T
 
 ##Ex: 
 
-**Data Scince -- R**
+**Data Scince**
+            -- R
 
             -- Python 
 
