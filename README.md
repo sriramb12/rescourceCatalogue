@@ -6,9 +6,16 @@ Goal is to organize the content (resources) in a  hirarchical (tree) structure T
 ##Ex: 
 
 **Data Scince -- R**
+
             -- Python 
+
             -- ML 
+
             -- Stats 
+
+
 **Programming**
+
         -- Python 
+
         -- C/c++ 
